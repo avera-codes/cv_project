@@ -11,3 +11,7 @@
 
 pkg/
 src/
+
+.venv
+.vscode
+yolov5
